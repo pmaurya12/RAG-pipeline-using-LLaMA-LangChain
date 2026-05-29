@@ -1,4 +1,4 @@
-# 🦙 RAG-LLaMA-LangChain-FAISS
+#  RAG-LLaMA-LangChain-FAISS
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white"/>
