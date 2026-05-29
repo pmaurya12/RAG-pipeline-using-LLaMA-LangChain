@@ -63,25 +63,7 @@ LANGCHAIN_TRACING_V2=true
 LANGCHAIN_PROJECT=rag-project
 ```
 
-## ▶️ Run
 
-```bash
-python app.py
-# or
-jupyter notebook
-```
-
----
-
-## 🔮 Upcoming
-
-- [ ] Streamlit chat UI
-- [ ] PDF ingestion support
-- [ ] Conversational memory
-- [ ] Web app deployment
-
----
-
-👨‍💻 **Prabhat Maurya** · CSE Student | AI/ML Enthusiast
+👨‍💻 **Prabhat Kumar Maurya**  
 
 ⭐ Star the repo if you found it useful!
